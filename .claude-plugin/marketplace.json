@@ -1,0 +1,20 @@
+{
+  "name": "dreamcut",
+  "owner": {
+    "name": "DreamCut"
+  },
+  "metadata": {
+    "description": "DreamCut: edit video locally from your coding agent."
+  },
+  "plugins": [
+    {
+      "name": "dreamcut",
+      "description": "Edit video with DreamCut: a local editor you drive from your agent. Your footage never leaves your computer.",
+      "category": "productivity",
+      "source": {
+        "source": "npm",
+        "package": "dreamcut"
+      }
+    }
+  ]
+}
