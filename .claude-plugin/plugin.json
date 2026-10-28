@@ -1,0 +1,12 @@
+{
+  "name": "dreamcut",
+  "version": "0.4.0",
+  "description": "Edit video with DreamCut: a local editor you drive from your agent, installed from its public GitHub repository. Your footage never leaves your computer.",
+  "author": {
+    "name": "DreamCut"
+  },
+  "homepage": "https://github.com/lukemun/dreamcut",
+  "repository": "https://github.com/lukemun/dreamcut-plugins",
+  "keywords": ["video", "editing", "storyboard", "mcp"],
+  "license": "FSL-1.1-ALv2"
+}

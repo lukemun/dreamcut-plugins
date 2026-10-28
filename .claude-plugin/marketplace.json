@@ -9,12 +9,9 @@
   "plugins": [
     {
       "name": "dreamcut",
-      "description": "Edit video with DreamCut: a local editor you drive from your agent. Your footage never leaves your computer.",
+      "description": "Edit video with DreamCut: a local editor you drive from your agent, installed from its public GitHub repository. Your footage never leaves your computer.",
       "category": "productivity",
-      "source": {
-        "source": "npm",
-        "package": "dreamcut"
-      }
+      "source": "./"
     }
   ]
 }

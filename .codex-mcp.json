@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "dreamcut": {
+      "command": "node",
+      "args": ["./bin/dreamcut-plugin.mjs"],
+      "cwd": "./"
+    }
+  }
+}
